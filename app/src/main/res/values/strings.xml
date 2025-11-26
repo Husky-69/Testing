@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M-Kulima</string>
+    <string name="welcome_title">Welcome to M-Kulima!</string>
+    <string name="welcome_subtitle">Let\'s set up your farm profile</string>
+    <string name="location_label">My Village Location</string>
+    <string name="main_crop_label">Main Crop (e.g., Maize)</string>
+    <string name="farm_size_label">Farm Size (Hectares)</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="home_title">Welcome Back, Farmer!</string>
+    <string name="weather_condition">Sunny day in Kavipura. Light rain expected tomorrow.</string>
+    <string name="pest_alert_title">PEST ALERT: Fall Armyworm detected nearby!</string>
+    <string name="my_tasks_title">My Tasks</string>
+    <string name="crop_guides_title">Crop Guides</string>
+    <string name="diagnosis_title">Pest &amp; Disease Diagnosis</string>
+    <string name="my_farm_title">My Farm</string>
+    <string name="offline_mode">OFFLINE MODE - Limited Data</string>
+    <string name="back_button">Back</string>
+</resources>
